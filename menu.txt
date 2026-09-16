@@ -1,0 +1,12 @@
+DRINK|12|Mineral Water|3.0|Drinks|true|Medium
+DRINK|7|Coca Cola|4.0|Drinks|true|Large
+DRINK|11|Green Tea|4.5|Drinks|true|Small
+DRINK|8|Coffee|5.5|Drinks|true|Medium
+DRINK|9|Orange Juice|6.0|Drinks|true|Large
+DRINK|10|Milkshake|8.5|Drinks|true|Large
+FOOD|3|Chicken Salad|10.5|Healthy|true|High Protein
+FOOD|1|Chicken Burger|12.5|Main|true|Halal
+FOOD|2|Vegetable Pizza|15.0|Main|true|Vegetarian
+FOOD|6|Fish and Chips|16.0|Main|true|Pescatarian
+FOOD|5|Pasta Alfredo|18.5|Main|true|Vegetarian
+FOOD|4|Beef Steak|28.0|Main|true|Halal
